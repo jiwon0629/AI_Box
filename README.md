@@ -1,4 +1,4 @@
-# Box-Detact-Model  
+# 우송대전 SW전문인력 해커톤
 ![box](https://github.com/jiwon0629/AI_Box/assets/149983498/fa6d99d8-10ab-438c-94cc-9332287f90f6)  
 
 ![result1](https://github.com/jiwon0629/AI_Box/assets/149983498/c9620837-a0f1-4332-87a2-450a3fd882cb)  
