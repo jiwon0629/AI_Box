@@ -17,7 +17,10 @@
 1. python에서 가상 환경 생성  
 2. yolov5의 학습 기능 Ai 프로세스를 가상 환경에 복제  
 3. Yolov5에서 준비된 데이터 세트 학습   
-4. 결과 확인을 위해 실행  
+4. 결과 확인을 위해 실행
+
+![image](https://github.com/jiwon0629/Hackathon_Box/assets/149983498/96058d73-ca8a-4f7b-9656-1585c052d52e)  
+
 
 ![box](https://github.com/jiwon0629/AI_Box/assets/149983498/fa6d99d8-10ab-438c-94cc-9332287f90f6)  
 
